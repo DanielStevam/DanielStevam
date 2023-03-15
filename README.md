@@ -4,7 +4,7 @@
 
 -Em 2019, comecei a estudar programação com o objetivo de aprender a criar servidores do jogo Minecraft usando Java. No entanto, eu simplesmente seguia tutoriais sem realmente entender o que cada linha de código fazia. Isso despertou minha curiosidade e me levou a começar minha jornada na programação. Devido à escola na época, acabei deixando essa curiosidade de lado. Mas, depois de concluir o ensino médio, decidi retomar meus estudos do zero e ingressei na faculdade para cursar Engenharia de Software na PUC Minas em 2022. Desde então, tenho passado grande parte do meu tempo desenvolvendo projetos e aprendendo as teorias e práticas de cada algoritmo.
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Pierre&layout=compact&langs_count=8&theme=gotham /> </p>
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Stevam&layout=compact&langs_count=8&theme=gotham /> </p>
   
 <div align="center" ><br>
   
