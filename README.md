@@ -6,21 +6,9 @@
 
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=DanielStevam&layout=compact&langs_count=8&theme=gotham /> </p>
   
-<div align="center" ><br>
-  
-  
-  <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+## Linguagens
 
-  <img align="center"  height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  
-  <img align="center"  height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png"
-  
-  <img align="center"  height="40" width="50" src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png"
- 
-  <img align="center"  height="40" width="50" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png"
-</div>
+(https://skillicons.dev/icons?i=js,java,css,html,git,mongodb,c)](https://skillicons.dev)
   
   ##
   
