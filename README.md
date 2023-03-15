@@ -8,7 +8,7 @@
   
 ## Linguagens
 
-(https://skillicons.dev/icons?i=js,java,css,html,git,mongodb,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,css,html,git,mongodb,c)](https://skillicons.dev)
   
   ##
   
